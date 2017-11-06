@@ -17,15 +17,15 @@ There are three types to construct the picture. Each types have three channels,e
 ('value at S(20,25):', 100)
 ('value at V(20,25):', 252)
 
-value range of R,G,B : 0~255
+value range of R,G,B is 0~255.
 
-value range of Y,U,V : 16~235, 16~240, 16~240
+value range of Y,U,V is 16~235 and 16~240 and 16~240
 
-value range of H,S,V : 0~180, 0~255, 0~255
+value range of H,S,V is 0~180 and 0~255 and 0~255
 
-value range of L,A,B : 0~100,-127~127,-127~127
+value range of L,A,B is 0~100,-127~127,-127~127
 
-value range of C,M,Y,K : 0~100
+value range of C,M,Y,K  is 0~100 
 
 # Exercise 3
 
