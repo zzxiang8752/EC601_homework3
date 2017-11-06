@@ -19,9 +19,9 @@ There are three types to construct the picture. Each types have three channels,e
 
 value range of R,G,B : 0~255
 
-value range of Y,U,V : 16~235,16~240,16~240
+value range of Y,U,V : 16~235, 16~240, 16~240
 
-value range of H,S,V : 0~180,0~255,0~255
+value range of H,S,V : 0~180, 0~255, 0~255
 
 value range of L,A,B : 0~100,-127~127,-127~127
 
