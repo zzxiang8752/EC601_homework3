@@ -16,10 +16,15 @@ There are three types to construct the picture. Each types have three channels,e
 ('value at H(20,25):', 101)
 ('value at S(20,25):', 100)
 ('value at V(20,25):', 252)
+
 value range of R,G,B : 0~255
+
 value range of Y,U,V : 16~235,16~240,16~240
+
 value range of H,S,V : 0~180,0~255,0~255
+
 value range of L,A,B : 0~100,-127~127,-127~127
+
 value range of C,M,Y,K : 0~100
 
 # Exercise 3
